@@ -17,8 +17,8 @@ const Main = () => {
           </h1>
           <h1 className='py-2 text-gray-700'>A Graphic Designer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-            I’m a passionate graphic designer. Within my designs I value simplicity, symmetry and detail. 
-            Whether I'm designing books, branding, logo, packaging or websites. I always strive for beauty and balance.
+            I&#8242;m a passionate graphic designer. Within my designs I value simplicity, symmetry and detail. 
+            Whether I&#8242;m designing books, branding, logo, packaging or websites. I always strive for beauty and balance.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a

@@ -36,8 +36,8 @@ const logo = () => {
           I specialize in creating impactful logos that serve as visual cornerstones for brands, 
           effectively communicating their identity and values. Through a meticulous blend of creativity and strategic thinking, 
           I craft logos that resonate with target audiences and leave a lasting impression. 
-          My approach involves in-depth research into the brand's ethos, 
-          translating it into a unique visual language that not only stands out but also aligns seamlessly with the brand's narrative.
+          My approach involves in-depth research into the brand&#8242;s ethos, 
+          translating it into a unique visual language that not only stands out but also aligns seamlessly with the brand&#8242;s narrative.
           </p>
         </div>
         <div className='col-span-4 w-auto h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>

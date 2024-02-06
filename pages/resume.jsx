@@ -173,7 +173,7 @@ const resume = () => {
 
         <div className='pt-3 pb-6'>
           <p className='italic'>
-            <span className='font-bold'>Bachelor's Degree in Instrumentation and Control Engineering</span>
+            <span className='font-bold'>Bachelor&#8242;s Degree in Instrumentation and Control Engineering</span>
             <span className='px-2'>|</span>Government Engineering College, India
           </p>
           <p className='py-1 italic'>2017</p>
