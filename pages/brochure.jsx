@@ -32,7 +32,7 @@ const brochure = () => {
             Creating this brochure has been a personal triumph, a journey from uncertainty to accomplishment. 
             Initially daunted by the challenge, I found courage and support from my instructor, friends, and family, 
             transforming my nerves into confidence. Crafting these brochures became a labor of love in my native Gujarat, 
-            drawing inspiration from my profound connection with the region. Within the pages, I've curated a guide to the 
+            drawing inspiration from my profound connection with the region. Within the pages, I&#8242;ve curated a guide to the 
             top 5 must-visit places, infused with insights on activities and experiences unique to Gujarat. Each element is a 
             testament to my newfound ability and passion for capturing the essence of this culturally rich destination.
           </p>

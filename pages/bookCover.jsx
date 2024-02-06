@@ -30,9 +30,9 @@ const bookCover = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            Creating this children's book has significantly boosted my confidence. 
-            Drawing inspiration from my daughter's everyday life, 
-            as well as the book "Good Night, Mr. Panda," and 
+            Creating this children&#8242;s book has significantly boosted my confidence. 
+            Drawing inspiration from my daughter&#8242;s everyday life, 
+            as well as the book &#8220;Good Night, Mr. Panda,&#8221; and 
             being particularly drawn to the color themes used by illustrator Sonya Korobkova, 
             I embarked on this creative endeavor. The entire assignment has been both exhilarating and enjoyable. 
             Not only has it fueled my excitement, but it has also served as a valuable learning experience with illustrator tools. 
