@@ -33,7 +33,7 @@ const advertisement = () => {
           <p>
             Our social media advertising campaign for this company, centered around promoting protein powder, 
             is successfully concluded. Strategically targeting Facebook, Instagram, and TikTok, 
-            we have developed two images and a compelling video, integrating the company's logo for brand recognition. 
+            we have developed two images and a compelling video, integrating the company&#8242;s logo for brand recognition. 
             The primary objective is to enhance the sales of protein powder through these multi-platform ads. 
             To ensure visual cohesion and brand identity, a consistent color palette has been applied across all three advertisements, 
             fostering a unified and impactful presence.
