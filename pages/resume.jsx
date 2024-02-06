@@ -31,14 +31,14 @@ const resume = () => {
         <div className='text-center py-4 text-xl font-bold uppercase tracking-wider'>
           <div className='hidden sm:block'>
             <p>
-              Proven Leadership <span className='px-1'>|</span> Web Development{' '}
-              <span className='px-1'>|</span> Complex Problem Solving
+            Precision Focused <span className='px-1'>|</span> Graphic Design{' '}
+              <span className='px-1'>|</span> Solution Oriented
             </p>
           </div>
           <div className='block sm:hidden'>
-            <p>Proven Leadership</p>
-            <p className='py-2'>Web Development</p>
-            <p>Complex Problem Solving</p>
+            <p>Precision Focused</p>
+            <p className='py-2'>Graphic Design</p>
+            <p>Solution Oriented</p>
           </div>
         </div>
         <p>

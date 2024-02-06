@@ -6,7 +6,7 @@ import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 import adv1Img from '../public/assets/projects/socialMedia/adv_1.png';
 import adv2Img from '../public/assets/projects/socialMedia/adv_2.png';
-import advVideo from '../videos/adv_video.mp4'
+import advVideo from 'https://ypwcm7ns84yjqktv.public.blob.vercel-storage.com/adv_video-fu2koHIkmUcUV9V5S2HEqm0rhcwfqB.mp4'
 
 const advertisement = () => {
   return (
