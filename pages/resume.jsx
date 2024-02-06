@@ -78,13 +78,13 @@ const resume = () => {
         </h5>
         {/* Experience */}
         <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
+          <p>
+            <span className='font-bold'>
               NoGrowth
             </span>
             <span className='px-2'>|</span>Toronto, ON
           </p>
-          <p className='py-1 italic'>Graphic Designer (July 2023 - Present)</p>
+          <p className='py-1'>Graphic Designer (July 2023 - Present)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Produced 100+ designs for diverse marketing collaterals, elevating engagement and brand visibility by 30%.
@@ -107,13 +107,13 @@ const resume = () => {
 
         {/* Personal Experience */}
         <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
+          <p>
+            <span className='font-bold'>
               Communication Test Design Inc.
             </span>
             <span className='px-2'>|</span>Mississauga, ON
           </p>
-          <p className='py-1 italic'>Repair Technician (Dec 2018 - July 2023)</p>
+          <p className='py-1'>Repair Technician (Dec 2018 - July 2023)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Conducted routine maintenance and calibration, reducing equipment downtime by 15%.
@@ -133,13 +133,13 @@ const resume = () => {
 
         {/* Personal Experience */}
         <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
+          <p>
+            <span className='font-bold'>
               Ingenico Group
             </span>
             <span className='px-2'>|</span>Mississauga, ON
           </p>
-          <p className='py-1 italic'>Repair Technician (Aug 2017 - Dec 2018)</p>
+          <p className='py-1'>Repair Technician (Aug 2017 - Dec 2018)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Conducted in-depth diagnostics and repairs, consistently exceeding repair quotas by 20%.
@@ -164,19 +164,19 @@ const resume = () => {
 
         {/* Education */}
         <div className='pt-6 pb-3'>
-          <p className='italic'>
+          <p>
             <span className='font-bold'>Diploma in Graphic Design Technology</span>
             <span className='px-2'>|</span>CDI College, Edmonton
           </p>
-          <p className='py-1 italic'>2023</p>
+          <p className='py-1'>2023</p>
         </div>
 
         <div className='pt-3 pb-6'>
-          <p className='italic'>
+          <p>
             <span className='font-bold'>Bachelor&#8242;s Degree in Instrumentation and Control Engineering</span>
             <span className='px-2'>|</span>Government Engineering College, India
           </p>
-          <p className='py-1 italic'>2017</p>
+          <p className='py-1'>2017</p>
         </div>
       </div>
     </>

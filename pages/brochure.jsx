@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import brochureImg  from '../public/assets/projects/Brochure/cover_page.png'
+import brochureImg from '../public/assets/projects/Brochure/cover_page.png'
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 import brochure1Img from '../public/assets/projects/Brochure/brochure_1.png';
@@ -29,14 +29,12 @@ const brochure = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This app was built using React JS and is hosted on Firebase. Users
-            are able to search properties based on an Address, City, or ZIP code
-            to retrieve a list of active properties currently for sale. You will
-            be able to view property information as well as the specific
-            location of the property integrated with the Google Maps API. User
-            authentication is available so you can signup and signin to your
-            account with an email address in order to save your favorite
-            properties. This is made possible with Zillow API.
+            Creating this brochure has been a personal triumph, a journey from uncertainty to accomplishment. 
+            Initially daunted by the challenge, I found courage and support from my instructor, friends, and family, 
+            transforming my nerves into confidence. Crafting these brochures became a labor of love in my native Gujarat, 
+            drawing inspiration from my profound connection with the region. Within the pages, I've curated a guide to the 
+            top 5 must-visit places, infused with insights on activities and experiences unique to Gujarat. Each element is a 
+            testament to my newfound ability and passion for capturing the essence of this culturally rich destination.
           </p>
         </div>
         <div className='col-span-4 w-auto h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
@@ -46,9 +44,9 @@ const brochure = () => {
           <Image src={brochure2Img} className='rounded-xl' alt='/' />
         </div>
         <div className='col-span-4'>
-        <Link href='/#projects'>
-          <p className='underline cursor-pointer'>Back</p>
-        </Link>
+          <Link href='/#projects'>
+            <p className='underline cursor-pointer'>Back</p>
+          </Link>
         </div>
       </div>
     </div>

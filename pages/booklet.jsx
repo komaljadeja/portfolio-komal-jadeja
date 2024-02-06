@@ -36,14 +36,11 @@ const booklet = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This app was built using React JS and is hosted on Firebase. Users
-            are able to search properties based on an Address, City, or ZIP code
-            to retrieve a list of active properties currently for sale. You will
-            be able to view property information as well as the specific
-            location of the property integrated with the Google Maps API. User
-            authentication is available so you can signup and signin to your
-            account with an email address in order to save your favorite
-            properties. This is made possible with Zillow API.
+            Embark on a journey of discovery with our immersive booklet designed to capture the essence of travel. 
+            In collaboration with Discover the World, this booklet unfolds into a comprehensive guide to 10 
+            captivating experiences across Canada. Delving into our expertise and commitment, we present not just destinations, 
+            but a promise of extraordinary adventures. This booklet is an invitation for people to explore the best places in Canada, 
+            ensuring an enriching travel experience through the lens of our passion and dedication.
           </p>
         </div>
         <div className='col-span-4 w-auto h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
@@ -74,9 +71,9 @@ const booklet = () => {
           <Image src={booklet9Img} className='rounded-xl' alt='/' />
         </div>
         <div className='col-span-4'>
-        <Link href='/#projects'>
-          <p className='underline cursor-pointer'>Back</p>
-        </Link>
+          <Link href='/#projects'>
+            <p className='underline cursor-pointer'>Back</p>
+          </Link>
         </div>
       </div>
     </div>

@@ -30,14 +30,13 @@ const bookCover = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This app was built using React JS and is hosted on Firebase. Users
-            are able to search properties based on an Address, City, or ZIP code
-            to retrieve a list of active properties currently for sale. You will
-            be able to view property information as well as the specific
-            location of the property integrated with the Google Maps API. User
-            authentication is available so you can signup and signin to your
-            account with an email address in order to save your favorite
-            properties. This is made possible with Zillow API.
+            Creating this children's book has significantly boosted my confidence. 
+            Drawing inspiration from my daughter's everyday life, 
+            as well as the book "Good Night, Mr. Panda," and 
+            being particularly drawn to the color themes used by illustrator Sonya Korobkova, 
+            I embarked on this creative endeavor. The entire assignment has been both exhilarating and enjoyable. 
+            Not only has it fueled my excitement, but it has also served as a valuable learning experience with illustrator tools. 
+            This project has instilled a newfound confidence in me, and I am now more optimistic about pursuing a career as a graphic designer.
           </p>
         </div>
         <div className='col-span-4 w-auto h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
@@ -50,9 +49,9 @@ const bookCover = () => {
           <Image src={book3Img} className='rounded-xl' alt='/' />
         </div>
         <div className='col-span-4'>
-        <Link href='/#projects'>
-          <p className='underline cursor-pointer'>Back</p>
-        </Link>
+          <Link href='/#projects'>
+            <p className='underline cursor-pointer'>Back</p>
+          </Link>
         </div>
       </div>
     </div>

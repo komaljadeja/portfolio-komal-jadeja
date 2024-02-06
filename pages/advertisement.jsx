@@ -31,14 +31,12 @@ const advertisement = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This app was built using React JS and is hosted on Firebase. Users
-            are able to search properties based on an Address, City, or ZIP code
-            to retrieve a list of active properties currently for sale. You will
-            be able to view property information as well as the specific
-            location of the property integrated with the Google Maps API. User
-            authentication is available so you can signup and signin to your
-            account with an email address in order to save your favorite
-            properties. This is made possible with Zillow API.
+            Our social media advertising campaign for this company, centered around promoting protein powder, 
+            is successfully concluded. Strategically targeting Facebook, Instagram, and TikTok, 
+            we have developed two images and a compelling video, integrating the company's logo for brand recognition. 
+            The primary objective is to enhance the sales of protein powder through these multi-platform ads. 
+            To ensure visual cohesion and brand identity, a consistent color palette has been applied across all three advertisements, 
+            fostering a unified and impactful presence.
           </p>
         </div>
         <div className='col-span-4 w-auto h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
@@ -48,7 +46,7 @@ const advertisement = () => {
           <Image src={adv2Img} className='rounded-xl' alt='/' />
         </div>
         <div className='col-span-4 w-auto h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-          <Video src={advVideo} accentColor='#ad757e' className='h-96'/>
+          <Video src={advVideo} accentColor='#ad757e' className='h-96' />
         </div>
         <div className='col-span-4'>
           <Link href='/#projects'>
