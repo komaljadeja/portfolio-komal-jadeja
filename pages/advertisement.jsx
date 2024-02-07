@@ -6,7 +6,7 @@ import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 import adv1Img from '../public/assets/projects/socialMedia/adv_1.png';
 import adv2Img from '../public/assets/projects/socialMedia/adv_2.png';
-import advVideo from 'https://ypwcm7ns84yjqktv.public.blob.vercel-storage.com/adv_video-fu2koHIkmUcUV9V5S2HEqm0rhcwfqB.mp4'
+import adv3Img from '../public/assets/projects/socialMedia/adv_3.png';
 
 const advertisement = () => {
   return (
@@ -46,7 +46,7 @@ const advertisement = () => {
           <Image src={adv2Img} className='rounded-xl' alt='/' />
         </div>
         <div className='col-span-4 w-auto h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-          <Video src={advVideo} accentColor='#ad757e' className='h-96' />
+          <Image src={adv3Img} className='rounded-xl' alt='/' />
         </div>
         <div className='col-span-4'>
           <Link href='/#projects'>
