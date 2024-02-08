@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import Video from 'next-video'
 import React from 'react';
 import adsImg from '../public/assets/projects/socialMedia/cover_page.png'
 import { RiRadioButtonFill } from 'react-icons/ri';
